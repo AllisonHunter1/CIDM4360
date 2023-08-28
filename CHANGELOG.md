@@ -1,5 +1,5 @@
 # Changelog
-**Author: Allison**
+**Author: Allison Hunter**
 
 All notable changes to this project will be documented in this file.
 
